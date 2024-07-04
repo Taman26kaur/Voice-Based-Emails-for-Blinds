@@ -18,6 +18,18 @@ The smtplib module defines an SMTP client session object that can be used to sen
 
 
 It is having following features:
-•	Composing a mail
-•	Reading a mail
-•	Sending a mail 
+1. Composing a mail
+2. Reading a mail
+3. Sending a mail
+
+Screenshots
+
+![Screenshot (102)](https://github.com/Taman26kaur/Voice-Based-Emails-for-Blinds/assets/100130372/f951d57e-7cb4-45fa-9e4b-5ae2312b34c5)
+
+![Screenshot (103)](https://github.com/Taman26kaur/Voice-Based-Emails-for-Blinds/assets/100130372/52d5c2aa-ada0-4e2d-a610-205016c94702)
+
+![Screenshot (105)](https://github.com/Taman26kaur/Voice-Based-Emails-for-Blinds/assets/100130372/72f9b073-e4cc-4e25-9af4-efdff2b2c91d)
+
+![Screenshot (106)](https://github.com/Taman26kaur/Voice-Based-Emails-for-Blinds/assets/100130372/9794c8e5-bb67-4554-9456-cc5f895addba)
+
+
